@@ -1,5 +1,5 @@
 # Goodoc Swift Style Guide
-================
+==
 
 ## Swift 4.x
 
