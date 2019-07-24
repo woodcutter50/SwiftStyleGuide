@@ -186,6 +186,7 @@
 - 기본 프레임워크를 먼저 임포트하고 서드파티 프레임워크를 위에 공백 포함 임포트 합니다.
 	<details>
 	<summary>Sample</summary>
+	
 	``` swift
 	import Foundation
 	
@@ -199,20 +200,21 @@
 - 태그 메시지를 작성하는 라인의 위에 공백을 추가합니다.
 	<details>
 	<summary>Sample</summary>
-	``` swift
 	
+	``` swift
 	// MARK: - Properties
-    var message: String = ""
+	var message: String = ""
 
 	// MARK: - View Life cycle
-    override func viewDidLoad() {
-        super.viewDidLoad()
+	override func viewDidLoad() {
+		super.viewDidLoad()
 	}
 	```
 
 	``` swift
 	// MARK: Properties	X
-    var message: String = ""
+	var message: String = ""
+
 	// MARK: - Request	X
 	func loadNoticeList() {
 		// ...
@@ -226,6 +228,7 @@
 
 	<details>
 	<summary>Sample</summary>
+	
 	``` swift
 	/// 공지사항 리스트를 불러오는 함수
 	func loadNoticeList() {
@@ -273,6 +276,7 @@
 
 	<details>
 	<summary>Sample</summary>
+	
 	``` swift
 	// MARK: - NoticeViewModelType
 	extension NoticeViewModel: NoticeViewModelType {
