@@ -6,7 +6,7 @@
 
 #### 변경사항은 점진적인 형태로 개선합니다.
 
-#### 가이드는 *권장사항과 필수항목으로 분류하며 권장사항중 반드시 지켜야할 규약은 `SwiftLint`로 관리합니다.
+#### 가이드는 권장사항과 *필수항목을 분류하며 반드시 지켜야할 규약은 `SwiftLint`로 관리합니다.
 
 #### 참고
 - [StyleShare](https://github.com/StyleShare/swift-style-guide/blob/master/README.md)
