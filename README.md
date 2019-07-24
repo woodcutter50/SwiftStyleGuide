@@ -178,7 +178,7 @@
 	- NoticeData.swift X
 	</details>
 
-##코드 규칙
+## 코드 규칙
 
 
 ### 임포트
