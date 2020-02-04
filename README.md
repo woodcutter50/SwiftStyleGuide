@@ -1,4 +1,4 @@
-# Goodoc Swift Style Guide
+# Swift Style Guide
 
 ## Swift 4.x
 
